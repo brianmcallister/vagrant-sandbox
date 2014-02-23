@@ -1,0 +1,6 @@
+maintainer       'Brian McAllister'
+maintainer_email 'brian@brianmcallister'
+license          'All rights reserved'
+description      'Setup a development sandbox.'
+long_description 'Setup a development sandbox.'
+version          '0.0.1'
